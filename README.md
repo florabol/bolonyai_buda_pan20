@@ -1,5 +1,5 @@
 # bolonyai20
-Our codes written in Python 3.7 for our winning participation at the PAN 2020 Profilin Fake News Spreaders on Twitter task
+Our codes written in Python 3.7 for our winning participation at the PAN 2020 Profiling Fake News Spreaders on Twitter task
 
 The code is organized in the following folders:
 - data: reading and cleaning data
