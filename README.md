@@ -6,4 +6,4 @@ The code is organized in the following folders:
 - modeling: cross-validation and grid search to find the best hyperparameters for different models
 - training: training the best models on the full training dataset
 - stacking: generating synthetic datasets and running cross-validation and grid search to find the best stacking method
-- final software: the code for the final software 
+- software: the code for the final testing software 
